@@ -1,0 +1,33 @@
+<TextFileConfiguration>
+	<FilePath>not used</FilePath>
+	<Delimiters>,</Delimiters>
+	<DescriptionClassName>es.ucm.fdi.ici.c2324.practica3.grupo04.mspacman.MsPacManDescription</DescriptionClassName>
+	<DescriptionMappings>
+		<Map>id</Map>
+		<Map>score</Map>
+		<Map>time</Map>
+		<Map>nearestPP</Map>		
+		<Map>nearestGhost</Map>		
+		<Map>edibleGhost</Map>		
+		<Map>edible</Map>
+		<Map>distGhosts</Map>
+		<Map>remainingPP</Map>
+		<Map>closestPPDist</Map>		
+		<Map>closestPillDist</Map>		
+		<Map>remainingLives</Map>	
+		<Map>movTowardsGhost</Map>	
+		<Map>movTowardsGhostEdible</Map>	
+		<Map>movesLibres</Map>	
+
+	</DescriptionMappings>
+	<SolutionClassName>es.ucm.fdi.ici.c2324.practica3.grupo04.mspacman.MsPacManSolution</SolutionClassName>
+	<SolutionMappings>
+		<Map>id</Map>
+		<Map>action</Map>
+	</SolutionMappings>
+	<ResultClassName>es.ucm.fdi.ici.c2324.practica3.grupo04.mspacman.MsPacManResult</ResultClassName>
+	<ResultMappings>
+		<Map>id</Map>
+		<Map>score</Map>
+	</ResultMappings>
+</TextFileConfiguration>

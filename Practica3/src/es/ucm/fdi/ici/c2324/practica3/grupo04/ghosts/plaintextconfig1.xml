@@ -1,0 +1,37 @@
+<TextFileConfiguration>
+	<FilePath>not used</FilePath>
+	<Delimiters>,</Delimiters>
+	<DescriptionClassName>es.ucm.fdi.ici.c2324.practica3.grupo04.ghosts.GhostsDescription</DescriptionClassName>
+	<DescriptionMappings>
+		<Map>id</Map>
+		<Map>score</Map>
+		<Map>time</Map>
+		<Map>PacmanLives</Map>		
+		<Map>numPPLeft</Map>		
+		<Map>DistPacmanINKY</Map>
+		<Map>DistPacmanBLINKY</Map>
+		<Map>DistPacmanSUE</Map>
+		<Map>DistPacmanPINKY</Map>
+		<Map>distPacmanNearestPP</Map>		
+		<Map>inkyMoveToPacman</Map>		
+		<Map>blinkyMoveToPacman</Map>	
+		<Map>sueMoveToPacman</Map>
+		<Map>pinkyMoveToPacman</Map>
+		<Map>lastPacmanMove</Map>
+		<Map>inkyEdible</Map>		
+		<Map>blinkyEdible</Map>		
+		<Map>sueEdible</Map>
+		<Map>pinkyEdible</Map>			
+		<Map>distPacmanNearestPP</Map>			
+	</DescriptionMappings>
+	<SolutionClassName>es.ucm.fdi.ici.c2324.practica3.grupo04.ghosts.GhostsSolution</SolutionClassName>
+	<SolutionMappings>
+		<Map>id</Map>
+		<Map>action</Map>
+	</SolutionMappings>
+	<ResultClassName>es.ucm.fdi.ici.c2324.practica3.grupo04.ghosts.GhostsResult</ResultClassName>
+	<ResultMappings>
+		<Map>id</Map>
+		<Map>score</Map>
+	</ResultMappings>
+</TextFileConfiguration>
